@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48f5fcb91d7477a4d8850b2b701ba854
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - WOODCUTTER DRIPPING CLASSIC FONT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bb029123542b5834594a6b586b0a0325, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
